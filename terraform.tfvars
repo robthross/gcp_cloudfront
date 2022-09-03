@@ -1,0 +1,1 @@
+gcp_svc_key = "/root/terraform/gcp_cloudfront/key.json"
